@@ -16,7 +16,7 @@ Ensure you have Python installed on your system. You can download it from [Pytho
 ## Installation
 1. Clone the repository or download the source code.
    ```sh
-   git clone https://github.com/your-username/UnfollowMate.git
+   git clone https://github.com/tanishpoddar/UnfollowMate.git
    cd UnfollowMate
    ```
 2. Install required dependencies:
